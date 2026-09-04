@@ -1,0 +1,14 @@
+2. Loans Analysis Page
+Overview & Purpose
+Analyzes loan portfolio health, profitability margins, monthly installment performance, distribution across customer segments, and default rates.
+
+Key Insights
+Portfolio Scale & Profitability: Generated 34.53M in Loan Profit from 600 Total Active/Closed Loans, with a Total Loan Amount of 237M and 3.96M in Total Monthly Installments.
+
+Loan Type Breakdown: Car Loans drive the largest share of monthly installment returns (1.62M / 40.95%), followed by Personal Loans (1.31M / 33.14%) and Mortgage Loans (1.03M / 25.91%).
+
+Segment Target Concentration: Loan issuance volume is heavily concentrated in the Retail segment (over 300 loans), outperforming the Mass segment (~180 loans), while the VIP segment accounts for the lowest loan count.
+
+Loan Status & Portfolio Risk: The vast majority of total loan amount resides in Active status, with closed loans forming the second largest share. Defaulted loans remain minimal, reflecting disciplined credit risk management.
+
+Seasonality in Monthly Installments: Installment collections show clear seasonal peaks during May and October (surpassing 400K), while experiencing dips in April (~200K) and December.
