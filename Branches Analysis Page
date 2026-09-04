@@ -1,0 +1,14 @@
+3. Branches Analysis Page
+Overview & Purpose
+Assesses geographic footprint efficiency, branch-level balance distribution, net cash flow health by city, transaction volume, and workforce distribution.
+
+Key Insights
+Operational Scale: Network spans 20 Branches across 6 major cities, servicing 1K Customers with 506 Total Employees and maintaining an Average Balance of 240.88K per client.
+
+Regional Balance Dominance: Mansoura leads all cities in total branch balance, followed by Assiut, Cairo, Giza, Alexandria, and Tanta.
+
+Transaction Volume Leaders: Mansoura, Cairo, and Giza branches recorded the highest total transaction volumes (each approaching or exceeding 10M transactions), while Alexandria registered the lowest transaction density.
+
+Net Cash Flow Polarization: Giza and Mansoura generated the highest positive Net Cash Flow (approaching +1.0M), whereas Cairo and Alexandria registered negative net cash flows (dropping to -1.0M).
+
+Workforce Allocation: Cairo holds the largest concentration of bank employees (141 staff / 27.87%), followed by Giza (99 staff / 19.57%), Mansoura (94 staff / 18.58%), Assiut (83 staff / 16.4%), and Alexandria (46 staff / 9.09%).
